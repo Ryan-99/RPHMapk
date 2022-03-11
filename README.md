@@ -1,6 +1,6 @@
 # RPHMapk
 
-# 还原华为鸿蒙系统中 `system/app` 中 `apk`文
+# 还原华为鸿蒙系统中 `system/app` 中 `apk`文件
 
 脚本调用了 `baksmali-2.5.2,jar` `smali-2.5.2.jar` `vdexExtractor` `compact_dex_converter` 脚本来实现功能
 
